@@ -1,4 +1,4 @@
 # xltn_btl2
 
 video demo bài tập 2:
-https://drive.google.com/drive/u/0/folders/10yc36ObzmpOAJ3-0S0HXSRP71ZHh0z3h
+https://drive.google.com/file/d/13Qhg8TFpxWeOvnNZOJ6Q0OmDb55N7jt4/view?usp=sharing
